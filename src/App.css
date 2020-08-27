@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.cart{
+
+  top: 20px;
+  position: fixed;
+  z-index: 111;
+  height: 300px;
+  width: 250;
+  padding: 30px;
+  margin: 20px auto;
+  background-color:orchid;
+}
